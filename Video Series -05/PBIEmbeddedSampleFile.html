@@ -1,0 +1,51 @@
+<html>  
+  
+<head>  
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">  
+    <meta name="viewport" content="width=device-width,initial-scale=1">  
+    <title>Power BI Embedded Demo - Part 5</title>  
+      
+    <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.12.4.js"></script>  
+    <script type="text/javascript" language="javascript" src="https://rawgit.com/Microsoft/PowerBI-JavaScript/master/dist/powerbi.min.js"></script> </script>  
+</head>  
+  
+<body>  
+    <h1>Power BI Embedded Demo</h1>  
+    <div id="reportContainer" style="width: 80%; height: 800px;"></div>  
+</body>  
+  
+<script>  
+    $(document).ready(function () {  
+        var getEmbedToken = "URL of Azure Function APP";  
+  
+        $.ajax({  
+            url: getEmbedToken,  
+            jsonpCallback: 'callback',  
+            contentType: 'application/javascript',  
+            dataType: "jsonp",  
+            success: function (json) {  
+  
+                var models = window['powerbi-client'].models;  
+  
+                var embedConfiguration = {  
+                    type: 'report',  
+                    id: json.ReportId,  
+                    embedUrl: json.EmbedUrl,  
+                    tokenType: models.TokenType.Embed,  
+                    accessToken: json.EmbedToken  
+                };  
+  
+                var $reportContainer = $('#reportContainer');  
+                var report = powerbi.embed($reportContainer.get(0), embedConfiguration);  
+  
+  
+            },  
+            error: function () {  
+                alert("Error");  
+            }  
+        });  
+  
+    });  
+</script>  
+  
+</html>  

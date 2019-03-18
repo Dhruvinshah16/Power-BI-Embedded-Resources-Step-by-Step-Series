@@ -1,0 +1,154 @@
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\csc.exe
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\vbc.exe
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\VBCSCompiler.exe
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\PowerBIEmbedded_AppOwnsData.dll.config
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\PowerBIEmbedded_AppOwnsData.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\PowerBIEmbedded_AppOwnsData.pdb
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Antlr3.Runtime.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.SqlServer.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Facebook.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Google.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.OAuth.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Twitter.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Newtonsoft.Json.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Owin.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Helpers.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Mvc.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Optimization.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Razor.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Razor.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\WebGrease.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Rest.ClientRuntime.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Newtonsoft.Json.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Helpers.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Mvc.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Optimization.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Razor.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Razor.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Antlr3.Runtime.pdb
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.SqlServer.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Facebook.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.OAuth.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Google.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Twitter.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.csprojResolveAssemblyReference.cache
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.dll
+A:\MyFirstProject\Blogs\Blog-46- Power BI Embedded\POC 6\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.pdb
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\PowerBIEmbedded_AppOwnsData.dll.config
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\PowerBIEmbedded_AppOwnsData.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\PowerBIEmbedded_AppOwnsData.pdb
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Antlr3.Runtime.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.SqlServer.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Cookies.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Facebook.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Google.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.OAuth.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Twitter.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Newtonsoft.Json.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Owin.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Helpers.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Mvc.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Optimization.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Razor.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Razor.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\WebGrease.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Rest.ClientRuntime.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Newtonsoft.Json.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Helpers.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Mvc.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Optimization.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.Razor.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\System.Web.WebPages.Razor.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Antlr3.Runtime.pdb
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\EntityFramework.SqlServer.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Facebook.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Cookies.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.OAuth.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Google.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.Twitter.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.csproj.CoreCompileInputs.cache
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.csproj.CopyComplete
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.pdb
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\csc.exe
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\vbc.exe
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\VBCSCompiler.exe
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+A:\DevPBIEmbeddedYouTube\App Owns Data\PowerBIEmbedded_AppOwnsData\obj\Debug\PowerBIEmbedded_AppOwnsData.csprojAssemblyReference.cache

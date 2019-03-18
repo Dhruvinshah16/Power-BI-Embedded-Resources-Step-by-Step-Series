@@ -1,0 +1,6 @@
+PBIE_CLIENT_ID = Application ID for the Application we have registered.
+PBIE_GROUP_ID = Workspace ID of Power BI Report.
+PBIE_REPORT_ID = Report ID of Power BI Report.
+PBIE_USERNAME = Username of Power BI Pro account
+PBIE_PASSWORD = Password of Power BI Pro account
+
